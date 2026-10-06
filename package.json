@@ -1,0 +1,11 @@
+{
+  "name": "landing-69ccc2",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "build": "eleventy"
+  },
+  "devDependencies": {
+    "@11ty/eleventy": "^3.0.0"
+  }
+}

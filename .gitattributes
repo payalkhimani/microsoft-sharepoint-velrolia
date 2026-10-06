@@ -1,0 +1,7 @@
+# Default behavior
+* text=auto eol=lf
+
+*.js linguist-detectable
+*.htm linguist-vendored
+*.gif binary
+# eof 6a061f3e
