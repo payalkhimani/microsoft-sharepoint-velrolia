@@ -1,0 +1,6 @@
+*.tgz
+dist/
+yarn-error.log*
+node_modules/
+npm-debug.log*
+_site/
